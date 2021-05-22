@@ -18,3 +18,5 @@ www.bhmy.top:8081/ui/search.html#/
 4.排序
 
 5.分页展示
+
+6.去重折叠检索
